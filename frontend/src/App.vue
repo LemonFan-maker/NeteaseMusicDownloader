@@ -50,8 +50,8 @@ onMounted(() => store.fetchHealth())
             </svg>
           </div>
           <div>
-            <h1 class="text-xl font-black gradient-text leading-none tracking-tight">网易云音乐</h1>
-            <p class="text-xs text-white/35 mt-0.5 tracking-widest uppercase">Music Toolbox</p>
+            <h1 class="text-xl font-black gradient-text leading-none tracking-tight">网易云音乐解析器</h1>
+            <p class="text-xs text-white/35 mt-0.5 tracking-widest uppercase">Netease Music Downloader</p>
           </div>
         </div>
 
