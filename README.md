@@ -63,11 +63,11 @@ NeteaseMusicDownloader/
    ```
 3. 准备
    1. 登录网页版网易云音乐，打开[每日歌曲推荐](https://music.163.com/#/discover/recommend/taste)
-   2. 使用F12界面进行调试，选择Network/网络选项卡
+   2. 使用F12界面进行调试，选择 **Network/网络选项卡**
    3. 刷新界面
-   4. 使用File/文件进行筛选，双击File/文件为`/`的项
-   5. 找到cookie的内容，选择copy value/复制值
-   6. 在cookie中找到`MUSIC_U=`开头的内容，到`;`结束，填入cookie.txt的内容中。
+   4. 使用 **File/文件** 进行筛选，双击 **File/文件** 为`/`的项
+   5. 找到cookie的内容，选择 **Copy Value/复制值**
+   6. 在cookie中找到 `MUSIC_U=` 开头的内容，到 `;` 结束，填入cookie.txt的内容中。
 
 4. 运行后端服务：
    ```bash
@@ -94,7 +94,9 @@ NeteaseMusicDownloader/
 1. 打开浏览器，访问前端地址。
 2. 在搜索框中输入网易云音乐的 URL，点击搜索。
 3. 在搜索结果中选择音乐进行播放或下载。
-4. 登录后可访问更多功能。
+
+## 关于白嫖
+我知道大家白嫖的心愿，但是请先别急，等我再把前后端调整一下就开放下载🥰
 
 ## 贡献指南
 欢迎对本项目进行贡献！
