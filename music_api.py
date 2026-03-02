@@ -262,7 +262,7 @@ class NeteaseAPI:
                 raise APIException(f"获取歌词失败: {result.get('message', '未知错误')}")
             
             print("歌词获取成功")
-            print(response.json())
+            # print(response.json())
 
             return result
         except requests.RequestException as e:

@@ -516,8 +516,10 @@ class MusicDownloader:
             # 嵌入歌词
             if music_info.lyric:
                 audio['LYRICS'] = music_info.lyric
+                audio['UNSYNCEDLYRICS'] = music_info.lyric
             if music_info.tlyric:
                 audio['LYRICS_TRANSLATION'] = music_info.tlyric
+                audio['UNSYNCEDLYRICS_TRANSLATION'] = music_info.tlyric
             
             audio.save()
         except Exception as e:
