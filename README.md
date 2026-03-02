@@ -1,7 +1,7 @@
 # Netease Music Downloader
 
 ## 项目简介
-Netease URL Downloader 是一个用于下载网易云音乐的工具。它提供了一个简单的前端界面和强大的后端功能，支持通过网易云音乐的 URL 搜索、播放和下载音乐。
+Netease Music Downloader 是一个用于下载网易云音乐的工具。它提供了一个简单的前端界面和强大的后端功能，支持通过网易云音乐的 URL 搜索、播放和下载音乐。
 
 ## 功能特性
 - **音乐搜索**：通过网易云音乐的 URL 搜索音乐。
