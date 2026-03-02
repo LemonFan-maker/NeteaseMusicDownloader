@@ -1,0 +1,14 @@
+.idea
+.vscode
+cookie.txt
+music_api.log
+downloads/
+templates/
+
+venv
+.venv
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
